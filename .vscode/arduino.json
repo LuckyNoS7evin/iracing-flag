@@ -1,0 +1,4 @@
+{
+    "sketch": "iracing-flag.ino",
+    "board": "arduino:avr:unowifi"
+}
