@@ -83,7 +83,7 @@ void setup() {
   strip.show();
   delay(500);
   digitalWrite(RELAY_PIN, LOW);
-  runMeatball();
+  runYellowBlue();
 }
 
 void loop() {
